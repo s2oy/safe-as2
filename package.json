@@ -1,5 +1,5 @@
 {
-  "name": "safeas2",
+  "name": "safe-as2",
   "alternateName": "node-safeas2",
   "version": "0.8.2",
   "description": "Implementation of the AS2 protocol as presented in RFC 4130 and related RFCs (forked library with libas2)",
@@ -23,9 +23,8 @@
   "author": "Aaron Huggins",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahuggins-nhs/node-libas2"
+    "url": "hhttps://github.com/s2oy/safe-as2"
   },
-  "homepage": "https://ahuggins-nhs.github.io/node-libas2/",
   "license": "MIT",
   "dependencies": {
     "@nhs-llc/emailjs-mime-parser": "^2.1.0",
